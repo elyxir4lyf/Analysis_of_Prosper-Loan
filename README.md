@@ -1,7 +1,5 @@
 # Loan Data Exploration
 
-### by Oni, Segun John
-
 
 
 ## Dataset
